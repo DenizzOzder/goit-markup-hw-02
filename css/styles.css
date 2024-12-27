@@ -14,6 +14,7 @@ body{
 }
 .logo-span{
     color: #2E2F42;
+    font-family: "Raleway";
 }
 ul{
     list-style-type: none;
@@ -23,7 +24,6 @@ a{
 }
 .nav-items{
     font-weight: 500;
-    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2E2F42;
