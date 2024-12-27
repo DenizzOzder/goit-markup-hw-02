@@ -94,11 +94,12 @@ body {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #FFFFFF;
+    cursor: pointer;
 }
 .hero-button:hover{
     background-color: #404BBF;
-    cursor: pointer;
 }
+
 .hero-button:focus{
     background-color: #404BBF
 }
