@@ -120,10 +120,11 @@ footer{
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
+    text-decoration: none;
 
 }
 .footer-logo-span{
-    color: #2E2F42;
+    color: #F4F4FD;;
 }
 .footer-para{
     color: #F4F4FD;
